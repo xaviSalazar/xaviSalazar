@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate C++ developer & javascript in my free time</h3>
+<h3 align="center">A full time passionate C/C++ developer & JavaScript programmer in my free time</h3>
 
 - 👨‍💻 All of my projects are available at [https://xavisalazar.github.io/portfolio/](https://xavisalazar.github.io/portfolio/)
 
